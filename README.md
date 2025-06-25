@@ -1,4 +1,4 @@
-# Secure File Transfer - Medical Record
+# GỬI BỆNH ÁN VỚI XÁC THỰC KÉP
 
 ## Mô tả
 Hệ thống truyền file bệnh án an toàn với xác thực kép (chữ ký số RSA và mật khẩu SHA-256), mã hóa AES-CBC, và kiểm tra toàn vẹn SHA-512.
